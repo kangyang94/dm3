@@ -1,3 +1,8 @@
+'''
+2018-4-26
+By Kang Yang
+'''
+
 import pandas as pd
 import numpy as np
 from sklearn.feature_extraction import DictVectorizer
