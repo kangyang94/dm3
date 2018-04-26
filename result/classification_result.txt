@@ -1,0 +1,24 @@
+DecisionTreeClassifier:
+              precision    recall  f1-score   support
+
+          0       0.93      0.94      0.93       263
+          1       0.89      0.88      0.89       155
+
+avg / total       0.92      0.92      0.92       418
+
+RandomForestClassifier:
+              precision    recall  f1-score   support
+
+          0       0.83      0.83      0.83       268
+          1       0.70      0.71      0.70       150
+
+avg / total       0.79      0.78      0.78       418
+
+GradientBoostingClassifier:
+              precision    recall  f1-score   support
+
+          0       0.96      0.86      0.91       298
+          1       0.72      0.92      0.81       120
+
+avg / total       0.89      0.88      0.88       418
+
